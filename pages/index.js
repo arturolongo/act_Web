@@ -12,7 +12,7 @@ export default function Home() {
       <header>
         <nav className={styles.navbar}>
           <div className="logo-container">
-            <img src="/src/logooriginal.png" alt="Logo de Monster." />
+            <img src="/src/logooriginal.png" alt="Logo de Monster" />
           </div>
           <div className={styles.centerText}>Promociones</div>
           <div className={styles.countryCode}>MX</div>
